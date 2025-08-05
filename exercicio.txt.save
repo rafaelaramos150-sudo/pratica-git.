@@ -1,0 +1,7 @@
+git init - Inicializa um novo repositório Git.
+git add - Adiciona arquivos ao índice (staging area).
+git commit - Salva as mudanças com uma mensagem descritiva.
+git diff exercicio.txt
+git add exercicio.txt
+git commit -m "Adiciona explicações para os 3 comandos Git"
+

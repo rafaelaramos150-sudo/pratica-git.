@@ -1,0 +1,1 @@
+Aprendi a iniciar um repositório Git, registrar mudanças com commits, e sincronizar meu projeto com o GitHub.
